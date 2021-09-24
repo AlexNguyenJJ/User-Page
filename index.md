@@ -16,8 +16,11 @@ one hackathon at SDHacks and was fortunate enough to be a developer intern at
 supervision of Ryan Nakashima. I worked on a project with 6 other members and 
 learned a lot during my time there in the Summer of 2021.
 
-In my experience, my preferred programming languages are Java, Python, C++, and 
-C. 
+In my experience, my preferred programming languages are:
+1. Java 
+2. Python 
+3. C++  
+4. C 
 
 I care about coding style since I've seen first hand how it can affect readability.
 On a project I worked on, there was a fellow developer who didn't indent or kept
@@ -49,13 +52,19 @@ let me know! Here is my [LinkedIn:](https://www.linkedin.com/in/nguyentalex/)
 ## About me (as a person)
 
 Hello! This is what I look like!
-![Me](./AlexPhotoshoot.jpg)
+![Me](./Images/AlexPhotoshoot.jpg)
 
 If you were to find me anywhere in my freetime it will probably be at home playing
 video games LOL. 
 
-My favorite games include Valorant, Genshin Impact, Elder Scrolls V: Skyrim, TF2,
-and Pirate101. Sadly, the latter two are no longer supported by their developers
+My favorite games include:
+- Valorant
+- Genshin Impact
+- Elder Scrolls V: Skyrim
+- TF2
+- Pirate101. 
+
+Sadly, the latter two are no longer supported by their developers
 and have received very little updates driving me to different games. I love 
 Skyrim because of the roleplay potential and the many different things I can do.
 Valorant is fun because I like to play FPS games and I prefer it over others.
@@ -70,3 +79,15 @@ Spicy Pasta, and other rice dishes!
 I am a cat person and proud of it. They smell better (as long as you maintain
 basic hygiene) and are so adorable and cute! My family recently got a few kittens
 and there are some in the CATS folder. Here's [two of them sleeping!](./CATS/Kittens_sleeping_next_to_Alum_Foil.jpg)
+
+I also like to play sports such as volleyball and tennis! If you ever need someone
+to play with, HMU!
+
+I have a few life goals I wish to accomplish, to keep me motiviated and excited
+about living as well as keeping me on track for more end of life goals:
+
+[x] Get my first internship!
+[ ] Graduate college
+[ ] Become a valued employee in a respectable company
+[ ] Raise a family
+[ ] Be happy and satisfied with my life
