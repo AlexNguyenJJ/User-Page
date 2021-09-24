@@ -86,8 +86,8 @@ to play with, HMU!
 I have a few life goals I wish to accomplish, to keep me motiviated and excited
 about living as well as keeping me on track for more end of life goals:
 
-[x] Get my first internship!
-[ ] Graduate college
-[ ] Become a valued employee in a respectable company
-[ ] Raise a family
-[ ] Be happy and satisfied with my life
+- [x] Get my first internship!
+- [ ] Graduate college
+- [ ] Become a valued employee in a respectable company
+- [ ] Raise a family
+- [ ] Be happy and satisfied with my life
