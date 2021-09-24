@@ -48,6 +48,9 @@ let me know! Here is my [LinkedIn:](https://www.linkedin.com/in/nguyentalex/)
 
 ## About me (as a person)
 
+Hello! This is what I look like!
+![Me](./AlexPhotoshoot.jpg)
+
 If you were to find me anywhere in my freetime it will probably be at home playing
 video games LOL. 
 
