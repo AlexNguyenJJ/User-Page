@@ -2,6 +2,7 @@
 
 ##### index
 [me as a programmer](#About-me-(as-a-programmer))
+
 [me as a person](#About-me-(as-a-person))
 
 ## About me (as a programmer)
@@ -65,4 +66,4 @@ Spicy Pasta, and other rice dishes!
 
 I am a cat person and proud of it. They smell better (as long as you maintain
 basic hygiene) and are so adorable and cute! My family recently got a few kittens
-and there are some in the CATS folder. Here's two of them sleeping!
+and there are some in the CATS folder. Here's [two of them sleeping!](CATS/Kittens\ sleeping\ next\ to\ Alum\ Foil.jpg)
