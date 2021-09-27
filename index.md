@@ -1,9 +1,9 @@
 # Alex Nguyen's User Page
 
 ##### index
-[me as a programmer](#About-me-(as-a-programmer))
+[me as a programmer](#About-me-as-a-programmer)
 
-[me as a person](#About-me-(as-a-person))
+[me as a person](#About-me-as-a-person)
 
 ## About me (as a programmer)
 
