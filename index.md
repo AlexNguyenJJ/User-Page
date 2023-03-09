@@ -7,14 +7,15 @@
 
 ## About me (as a programmer)
 
-Hello! I am a Computer Engineering major at UCSD in ERC in my 3rd year as an 
+Hello! I am a Computer Engineering major at UCSD in Eleanor Roosevelet College in my 4th year as an 
 undergraduate. 
 
 I don't have much experience in the industry and outside of classes I've only
 one hackathon at SDHacks and was fortunate enough to be a developer intern at 
 **San Diego Supercomputer Center's** *Research-Data-Services* division under the 
 supervision of Ryan Nakashima. I worked on a project with 6 other members and 
-learned a lot during my time there in the Summer of 2021.
+learned a lot during my time there in the Summer of 2021. I am continuing my work there as a Software
+Engineering Intern currently.
 
 In my experience, my preferred programming languages are:
 1. Java 
