@@ -7,21 +7,22 @@
 
 ## About me (as a programmer)
 
-Hello! I am a Computer Engineering major at UCSD in Eleanor Roosevelet College in my 4th year as an 
-undergraduate. 
+Hello! I am a graduate of University of California San Diego with a B.S. in 
+Computer Engineering and this is my rudimentary about me page. I'm working on
+creating my own website so this is just a silly stand-in for the mean time.
 
 I don't have much experience in the industry and outside of classes I've only
 one hackathon at SDHacks and was fortunate enough to be a developer intern at 
 **San Diego Supercomputer Center's** *Research-Data-Services* division under the 
 supervision of Ryan Nakashima. I worked on a project with 6 other members and 
 learned a lot during my time there in the Summer of 2021. I am continuing my work there as a Software
-Engineering Intern currently.
+Developer Intern currently.
 
 In my experience, my preferred programming languages are:
 1. Java 
 2. Python 
-3. C++  
-4. C 
+3. Javascript 
+4. C/C++
 
 I care about coding style since I've seen first hand how it can affect readability.
 On a project I worked on, there was a fellow developer who didn't indent or kept
@@ -44,7 +45,7 @@ he would write it all on one line:
 
 `const stmt = this.db.prepare('SELECT u.profile_picture, fd.drink_id, fd.date, f.friend_uid, d.* FROM (((fav_drinks fd INNER JOIN friends f ON fd.uid = f.friend_uid) INNER JOIN users u ON f.friend_uid = u.uid) INNER JOIN drinks d USING(drink_id)) WHERE f.uid = ? AND status = 'friends' AND date > DATE('now', '-${DISPLAY_HOME_WINDOW}') ORDER BY date COLLATE NOCASE DESC')`
 
-This of course looks horrible so in the words of one of my friends:
+This wasn't pleasing to look at so in the words of one of my friends:
 > I like spaghetti just not in my code
 
 I am always looking for more opportunities to grow so if you know of one, please
@@ -56,7 +57,7 @@ Hello! This is what I look like!
 ![Me](./Images/AlexPhotoshoot.jpg)
 
 If you were to find me anywhere in my freetime it will probably be at home playing
-video games LOL. 
+video games. 
 
 My favorite games include:
 - Valorant
@@ -81,14 +82,13 @@ I am a cat person and proud of it. They smell better (as long as you maintain
 basic hygiene) and are so adorable and cute! My family recently got a few kittens
 and there are some in the CATS folder. Here's [two of them sleeping!](./CATS/Kittens_sleeping_next_to_Alum_Foil.jpg)
 
-I also like to play sports such as volleyball and tennis! If you ever need someone
-to play with, HMU!
+I also like to play sports such as volleyball and tennis!
 
 I have a few life goals I wish to accomplish, to keep me motiviated and excited
 about living as well as keeping me on track for more end of life goals:
 
 - [x] Get my first internship!
-- [ ] Graduate college
+- [x] Graduate college
 - [ ] Become a valued employee in a respectable company
 - [ ] Raise a family
 - [ ] Be happy and satisfied with my life
